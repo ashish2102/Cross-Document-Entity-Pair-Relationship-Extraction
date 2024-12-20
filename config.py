@@ -1,7 +1,7 @@
 # config.py
 
 # OpenAI Configuration
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = "Add api key here"
 
 # Model Configuration
 DEFAULT_MODEL = "gpt-4o"
