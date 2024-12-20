@@ -1,0 +1,8 @@
+openai
+neo4j
+network
+matplotlib
+pandas
+numpy
+rapidfuzz
+fuzzywuzzy
